@@ -5,8 +5,8 @@
 ##
 
 <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaslimaromero&show_icons=true&hide_border=false&border_color=9571f7&title_color=9571f7&icon_color=9571f7&text_color=c9d1d9&bg_color=0d1117&count_private=true"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimaromero&layout=compact&border_color=9571f7&hide_border=false&&title_color=9571f7&text_color=9571f7&bg_color=0d1117&langs_count=7"/>
+    <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaslimaromero&show_icons=true&hide_border=false&border_color=9571f7&title_color=9571f7&icon_color=9571f7&text_color=c9d1d9&bg_color=0d1117&count_private=true"/>
+    <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimaromero&layout=compact&border_color=9571f7&hide_border=false&&title_color=9571f7&text_color=9571f7&bg_color=0d1117&langs_count=7"/>
 </div>
 
 ### Main skills
