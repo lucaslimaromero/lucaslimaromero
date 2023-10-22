@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9571f7&height=105&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Lima+Romero;I'm+19+years+old;I'm+from+Brasil,+MG;I+study+Computer+Engeneering+at+USP;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=&#9749;+Hello,+my+name+is+Lucas+Lima+Romero;&#127793;+I'm+19+years+old;&#128205;+I'm+from+Uberlândia+-+MG,+Brasil;&#128187;+I+study+Computer+Engeneering+at+USP;&#128075;+Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaslimaromero&show_icons=true&count_private=true&hide_border=true&title_color=9571f7&icon_color=9571f7&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Lima Romero github stats" /> 
